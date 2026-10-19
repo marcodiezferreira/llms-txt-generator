@@ -1,7 +1,5 @@
 # llms-txt-generator
 
-> **EN** · Generate the `llms.txt` file of any website from its sitemap: reads every page (title, meta description, H1), groups them by section and writes a ready-to-upload Markdown file following [llmstxt.org](https://llmstxt.org). Single Python file, zero dependencies. Docs below in Spanish.
-
 **Crea el `llms.txt` de tu web en un minuto, a partir de su sitemap.**
 
 `llms.txt` es un fichero en Markdown que se sube a la raíz de la web (`https://tu-web.com/llms.txt`) y resume quién eres y cuáles son tus páginas clave. Está pensado para que ChatGPT, Gemini, Perplexity y el resto de asistentes con IA entiendan tu web sin rastrearla entera. El formato está propuesto en [llmstxt.org](https://llmstxt.org).
